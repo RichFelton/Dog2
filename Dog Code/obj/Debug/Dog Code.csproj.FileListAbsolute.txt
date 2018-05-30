@@ -1,0 +1,2 @@
+C:\Users\WeCanCodeIT\source\repos\Dog Code\Dog Code\obj\Debug\Dog Code.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Dog Code\Dog Code\obj\Debug\Dog Code.csproj.CoreCompileInputs.cache
